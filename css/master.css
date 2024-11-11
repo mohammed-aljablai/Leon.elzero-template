@@ -124,7 +124,7 @@ a{
 header{
   height: calc(100vh - 42px);
   width: 100%;
-  background-image: url(../meadi/landing2B.jpg);
+  background-image: url(../meadi/landing2.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -418,7 +418,7 @@ i{
 }
 .contact i{
   margin-left: 3px;
-  color: #000;
+  color: var(--secondary-color);
 }
 
 /* end style of conact */
