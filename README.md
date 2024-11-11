@@ -30,7 +30,7 @@ This website is a solution for one of four website (template) that [Elzero](http
 **Note:** This website for educational purpose.
 
 ### Challenge Requirements 🏳
-> Simply programme (build) the [website]() that have been given to you.
+> Simply programme (build) the [website](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/) that have been given to you.
 
 ### What I Implemented 🤔
 I programme the website to look exactly smiler.
@@ -45,7 +45,7 @@ They are like brother, aren't they 🤔.
 ### Links
 Original website: [https://mohammed-aljablai.github.io/Leon.elzero-template/](https://mohammed-aljablai.github.io/Leon.elzero-template/)
 
-Mine: [https://](https)
+Mine: [https://elzerowebschool.github.io/HTML_And_CSS_Template_One/]([https](https://elzerowebschool.github.io/HTML_And_CSS_Template_One/))
 
 ## My process
 ### Built with
