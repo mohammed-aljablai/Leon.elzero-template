@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./meadi/readmeLogo.png" />
-  <h1 align="center"><a href=""> Leon | Elzero Template One </a></h1>
+  <h1 align="center"><a href="https://mohammed-aljablai.github.io/Leon.elzero-template/"> Leon | Elzero Template One </a></h1>
   <p align="center">
      This is a solution fro <a href="https://elzero.org/practical-html-css/">Elzero HTML, CSS Templates practice</a>. From <a href="https://elzero.org/">Elzero web School</a>.
   <br>
@@ -43,7 +43,8 @@ I programme the website to look exactly smiler.
 They are like brother, aren't they 🤔.
 
 ### Links
-Original website: [https://](https)
+Original website: [https://mohammed-aljablai.github.io/Leon.elzero-template/](https://mohammed-aljablai.github.io/Leon.elzero-template/)
+
 Mine: [https://](https)
 
 ## My process
